@@ -1,0 +1,33 @@
+Read the number of terms of 1st Polynomial
+2
+Read co and po of 1 terms
+5
+2
+Read co and po of 2 terms
+3
+1
+
+The first polynomial is
+
+5*X^2+
+3*X^1
+Read the number of terms of 2nd Polynomial
+2
+Read co and po of 1 terms
+9
+2
+Read co and po of 2 terms
+4
+1
+
+The second polynomial is
+
+9*X^2+
+4*X^1
+The resultant polynomial is
+
+45*X^4+
+47*X^3+
+12*X^2
+Process returned 0 (0x0)   execution time : 23.559 s
+Press any key to continue.

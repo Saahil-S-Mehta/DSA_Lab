@@ -1,0 +1,141 @@
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+1
+
+ Read element to be pushed
+5
+
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+1
+
+ Read element to be pushed
+7
+
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+1
+
+ Read element to be pushed
+6
+
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+1
+
+ Read element to be pushed
+8
+
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+1
+
+ Read element to be pushed
+1
+
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+3
+
+The contents of stack are
+
+1
+8
+6
+7
+5
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+6
+
+The bottom third element in the stack is 6
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+5
+
+The third element in the stack is 6
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+2
+
+1
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+4
+
+Read the number of elements to be popped
+4
+
+Lesser Elements in the Stack
+1. Push
+2. Pop
+3. Display
+4. Pop 'n' elements
+5. Top third element
+6. Bottom third element
+7. Exit
+ Read Choice
+7
+
+Process returned 0 (0x0)   execution time : 46.324 s
+Press any key to continue.

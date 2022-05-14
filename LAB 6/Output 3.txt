@@ -1,0 +1,22 @@
+Enter order of Matrix:  2
+2
+
+Enter matrix elements
+0
+1
+0
+9
+
+
+
+
+ROW     COL     DATA
+1       2       1
+2       2       9
+
+
+0       1
+0       9
+
+Process returned 0 (0x0)   execution time : 7.506 s
+Press any key to continue.

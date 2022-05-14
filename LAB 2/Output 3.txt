@@ -1,0 +1,6 @@
+Read the infix expression
+(A+B)*(C-D)/((E-F)*(G+H))
+
+Postfix of the expression is AB+CD-*EF-GH+*/
+Process returned 0 (0x0)   execution time : 112.966 s
+Press any key to continue.

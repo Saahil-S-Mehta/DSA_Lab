@@ -1,0 +1,58 @@
+
+1.CREATE HEAP
+2.DELETE MAX ELEMENT
+3.EXIT
+
+Read choice::
+1
+
+Read no. of elements:
+4
+
+Read Contents
+2
+4
+6
+8
+
+Elements after heapify:
+8       4       6       2
+1.CREATE HEAP
+2.DELETE MAX ELEMENT
+3.EXIT
+
+Read choice::
+2
+
+Element removed is 8:
+Elements after deletion
+6       4       2
+1.CREATE HEAP
+2.DELETE MAX ELEMENT
+3.EXIT
+
+Read choice::
+2
+
+Element removed is 6:
+Elements after deletion
+4       2
+1.CREATE HEAP
+2.DELETE MAX ELEMENT
+3.EXIT
+
+Read choice::
+2
+
+Element removed is 4:
+Elements after deletion
+2
+1.CREATE HEAP
+2.DELETE MAX ELEMENT
+3.EXIT
+
+Read choice::
+3
+
+Process returned 0 (0x0)   execution time : 42.650 s
+Press any key to continue.

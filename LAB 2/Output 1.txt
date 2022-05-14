@@ -1,0 +1,6 @@
+Read the infix expression
+A-B/C+DÊ*F/G*H
+
+Postfix of the expression is ABC/-DF*G/H*+
+Process returned 0 (0x0)   execution time : 58.775 s
+Press any key to continue.

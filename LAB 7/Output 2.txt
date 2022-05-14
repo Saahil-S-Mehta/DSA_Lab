@@ -1,0 +1,120 @@
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+60
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+20
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+10
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+80
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+3
+
+Preorder
+60      20      10      80
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+4
+Inorder
+10      20      60      80
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+5
+
+Postorder
+10      20      80      60
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+2
+
+Read Node to be deleted60
+
+60
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+3
+
+Preorder
+80      20      10
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+4
+Inorder
+10      20      80
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+5
+
+Postorder
+10      20      80
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice

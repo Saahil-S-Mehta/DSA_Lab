@@ -1,0 +1,83 @@
+
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :1
+
+Read a value to be inserted into hash table
+5
+
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :1
+
+Read a value to be inserted into hash table
+9
+
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :2
+
+Elements in the hash table are
+
+ Index 0         Value = -1
+ Index 1         Value = -1
+ Index 2         Value = -1
+ Index 3         Value = -1
+ Index 4         Value = -1
+ Index 5         Value = 5
+ Index 6         Value = -1
+ Index 7         Value = -1
+ Index 8         Value = -1
+ Index 9         Value = 9
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :3
+
+Read a value to be deleted from hash table
+5
+value is found at index 5
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :2
+
+Elements in the hash table are
+
+ Index 0         Value = -1
+ Index 1         Value = -1
+ Index 2         Value = -1
+ Index 3         Value = -1
+ Index 4         Value = -1
+ Index 5         Value = -1
+ Index 6         Value = -1
+ Index 7         Value = -1
+ Index 8         Value = -1
+ Index 9         Value = 9
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :1
+
+Read a value to be inserted into hash table
+5
+
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :2
+
+Elements in the hash table are
+
+ Index 0         Value = -1
+ Index 1         Value = -1
+ Index 2         Value = -1
+ Index 3         Value = -1
+ Index 4         Value = -1
+ Index 5         Value = 5
+ Index 6         Value = -1
+ Index 7         Value = -1
+ Index 8         Value = -1
+ Index 9         Value = 9
+1. Insert        2. Display     3. Delete        4. exit
+
+ Read Your choice :4
+
+Process returned 0 (0x0)   execution time : 26.455 s
+Press any key to continue.

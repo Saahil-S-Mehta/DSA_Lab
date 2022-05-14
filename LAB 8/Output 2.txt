@@ -1,0 +1,12 @@
+Eter infix expression
+a+b-c/d^e^f
+
+a+b-c/d^e^f
+Infix Expression
+a+b-c/d^e^f
+postfix Expression
+ab+cdef^^/-
+prefix Expression
+-+ab/c^d^ef
+Process returned 0 (0x0)   execution time : 19.995 s
+Press any key to continue.

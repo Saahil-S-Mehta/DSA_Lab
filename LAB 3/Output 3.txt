@@ -1,0 +1,112 @@
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+1
+
+Read Element to be sent
+My name is Saahil
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+1
+
+Read Element to be sent
+I am 19 years old.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+I'am a student of RVCE.
+
+Read Element to be sent
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+3
+
+The contents of the Queue are:
+My name is Saahil
+I am 19 years old.
+I'am a student of RVCE.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+2
+
+The message retrived is My name is Saahil
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+3
+
+The contents of the Queue are:
+I am 19 years old.
+I'am a student of RVCE.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+1
+
+Read Element to be sent
+I'am in CSE.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+3
+
+The contents of the Queue are:
+I am 19 years old.
+I'am a student of RVCI'am in CSE.
+I'am in CSE.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+2
+
+The message retrived is I am 19 years old.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+3
+
+The contents of the Queue are:
+I'am a student of RVCI'am in CSE.
+I'am in CSE.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+4
+
+Process returned 0 (0x0)   execution time : 172.567 s
+Press any key to continue.

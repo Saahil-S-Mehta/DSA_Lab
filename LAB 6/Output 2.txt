@@ -1,0 +1,41 @@
+Enter order of Matrix:  4
+4
+
+Enter matrix elements
+0
+0
+2
+0
+0
+3
+0
+0
+5
+0
+6
+0
+8
+0
+9
+4
+
+
+
+
+ROW     COL     DATA
+1       3       2
+2       2       3
+3       1       5
+3       3       6
+4       1       8
+4       3       9
+4       4       4
+
+
+0       0       2       0
+0       3       0       0
+5       0       6       0
+8       0       9       4
+
+Process returned 0 (0x0)   execution time : 18.203 s
+Press any key to continue.

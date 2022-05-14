@@ -1,0 +1,43 @@
+Read the number of terms of 1st Polynomial
+3
+Read co and po of 1 terms
+7
+2
+Read co and po of 2 terms
+6
+1
+Read co and po of 3 terms
+8
+3
+
+The first polynomial is
+
+7*X^2+
+6*X^1+
+8*X^3
+Read the number of terms of 2nd Polynomial
+3
+Read co and po of 1 terms
+4
+2
+Read co and po of 2 terms
+1
+1
+Read co and po of 3 terms
+6
+3
+
+The second polynomial is
+
+4*X^2+
+1*X^1+
+6*X^3
+The resultant polynomial is
+
+72*X^4+
+31*X^3+
+74*X^5+
+6*X^2+
+48*X^6
+Process returned 0 (0x0)   execution time : 49.736 s
+Press any key to continue.

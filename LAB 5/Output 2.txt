@@ -1,0 +1,23 @@
+Enter the first number
+568945
+
+Enter the second number
+261584
+
+The first number is
+
+568945
+The second number is
+
+261584
+The first number is
+
+568945
+The second number is
+
+261584
+The Final Added Number is
+
+830529
+Process returned 0 (0x0)   execution time : 14.303 s
+Press any key to continue.

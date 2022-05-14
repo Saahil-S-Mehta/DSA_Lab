@@ -1,0 +1,193 @@
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+50
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+40
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+60
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+55
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+70
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+3
+
+Preorder
+50      40      60      55      70
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+4
+Inorder
+40      50      55      60      70
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+5
+
+Postorder
+40      55      70      60      50
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+2
+
+Read Node to be deleted 40
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+3
+
+Preorder
+50      60      55      70
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+40
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+3
+
+Preorder
+50      40      60      55      70
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+2
+
+Read Node to be deleted 50
+
+50
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+3
+
+Preorder
+55      40      60      70
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+1
+
+Read Element to begin
+50
+
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+3
+
+Preorder
+55      40      50      60      70
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+4
+Inorder
+40      50      55      60      70
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+5
+
+Postorder
+50      40      70      60      55
+1. Insert
+2. Delete
+3. Preorder
+4. Inorder
+5. Postorder
+Read Choice
+

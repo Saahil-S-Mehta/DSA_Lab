@@ -1,0 +1,79 @@
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+1
+
+Read Element to be sent
+My name is Saahil.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+1
+
+Read Element to be sent
+Nice to Meet you
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+1
+
+Read Element to be sent
+Whats your name.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+3
+
+The contents of the Queue are:
+My name is Saahil.
+Nice to Meet you
+Whats your name.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+2
+
+The message retrived is My name is Saahil.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+2
+
+The message retrived is Nice to Meet you
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+3
+
+The contents of the Queue are:
+Whats your name.
+
+1. Sender
+2. Receiver
+3. Display
+4. Exit
+Read Choice
+4
+
+Process returned 0 (0x0)   execution time : 47.297 s
+Press any key to continue.

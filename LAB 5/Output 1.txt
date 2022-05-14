@@ -1,0 +1,23 @@
+Enter the first number
+224455
+
+Enter the second number
+4455
+
+The first number is
+
+224455
+The second number is
+
+4455
+The first number is
+
+224455
+The second number is
+
+004455
+The Final Added Number is
+
+228910
+Process returned 0 (0x0)   execution time : 10.547 s
+Press any key to continue.

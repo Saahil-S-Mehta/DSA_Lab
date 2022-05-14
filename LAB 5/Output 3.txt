@@ -1,0 +1,23 @@
+Enter the first number
+56
+
+Enter the second number
+4865219
+
+The first number is
+
+56
+The second number is
+
+4865219
+The first number is
+
+0000056
+The second number is
+
+4865219
+The Final Added Number is
+
+4865275
+Process returned 0 (0x0)   execution time : 8.458 s
+Press any key to continue.
